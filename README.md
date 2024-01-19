@@ -1,0 +1,1 @@
+I have applied some skills I learned and also got some help from some awesome friends that I have met over the years to succesfully create a weather application that pulls Data from a free weather API. This project was to help me use my skills I have leaned such as HTML, CSS, Javascript in a practical way.
